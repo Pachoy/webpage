@@ -1,4 +1,4 @@
-import "./styles.css";
+// import "./styles.css";
 
 let boxes = document.getElementsByClassName("box");
 let boxesArray = [...boxes];
